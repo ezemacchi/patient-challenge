@@ -1,0 +1,43 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.log
+*.obj
+*.lib
+*.vspscc
+*.vssscc
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Packages
+packages/
+*.nupkg
+*.snupkg
+
+# Environment files
+*.env
+
+# Publish output
+wwwroot/
