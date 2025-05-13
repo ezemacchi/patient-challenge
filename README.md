@@ -13,6 +13,7 @@ It is a simple project and given time constraints this serves as an MVP
 - Retry policy on the front-end, also some kind of WebSocket with SignalR, to make a refresh on the client after an update on the patient-list
 - Another table, like patient-record, with the logs of the medical treatments
 - UnitTesting on both apps
+- Proper git usage, commit often with proper messages
 - And again, tons of work that need to be done at least on my perspective hope you find this somekind of Ok
 
 Personal Note: Give the time constraints, IA was heavily used on the frontend, I needed to correct some mistakes, and make some twist to be able to work, but still a proper review of the code should be done
